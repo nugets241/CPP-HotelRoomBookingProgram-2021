@@ -19,7 +19,6 @@ This program is a simple yet comprehensive hotel room booking system created as 
 - Development time: Approximately 7 days
 
 ## Files in the Repository
-- `Programming_1_C++_Final_assignment.pdf`: Documentation and assignment details.
 - `Source.cpp`: The main program file.
 - `hotel_functions.cpp`: Implementation of the program's functions.
 - `hotel_functions.h`: Header file containing function declarations and the `Customer` struct.
