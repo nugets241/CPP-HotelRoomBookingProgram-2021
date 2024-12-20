@@ -1,7 +1,7 @@
 # Hotel Room Booking Program
 
 ## Overview
-This program is a simple yet comprehensive hotel room booking system created as a part of Programming 1 (C++) Final Assignment. Designed for simplicity and ease of use, it is suitable for users with basic computer knowledge.
+This program is a simple yet comprehensive hotel room booking system created as a part of the Programming 1 (C++) Final Assignment. Designed for simplicity and ease of use, it is suitable for users with basic computer knowledge.
 
 ## Features
 - **Show Prices of Room Types**: Allows users to view the prices of different types of rooms available in the hotel.
