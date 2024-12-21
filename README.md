@@ -1,4 +1,4 @@
-# Hotel Room Booking Program
+# Hotel Booking System 2021
 
 ## Screenshot
 ![Screenshot of the Hotel Room Booking Program](main-menu.png)
